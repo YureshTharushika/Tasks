@@ -1,0 +1,11 @@
+{
+    "name": "calendar-analyzer",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "src/index.js",
+    "dependencies": {
+      "googleapis": "^129.0.0",
+      "date-fns": "^2.30.0",
+      "dotenv": "^16.0.3"
+    }
+  }
